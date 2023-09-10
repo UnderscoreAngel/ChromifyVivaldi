@@ -22,10 +22,14 @@ file in there
 
 ![image](https://github.com/UnderscoreAngel/ChromifyVivaldi/assets/105066360/03150965-4124-4d92-af97-77839b138725)
 
+Then Restart the browser
+
 As an optional extra step, you might want to add the additional theme, for that head to vivaldi://settings/themes/
 and select "open theme" and select the ExtraTheme.zip to add an additional icon and to fix the settings menu.
 
 ![image](https://github.com/UnderscoreAngel/ChromifyVivaldi/assets/105066360/6699653e-f9fe-4302-b92a-4f4f62291542)
+
+
 
 enjoy! /angle :o)
 
